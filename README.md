@@ -1,5 +1,3 @@
-### Developed by : ADITHYA M
-### Register Number : 212224230008
 ### study-of-basic-gates
 
 **AIM:** 
@@ -65,6 +63,9 @@ Y= A⊕B
 
 
 **PROGRAM**
+
+### Developed by : ADITHYA M
+### Register Number : 212224230008
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
